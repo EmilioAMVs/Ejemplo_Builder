@@ -10,7 +10,7 @@ namespace Patrones.Builder.Core
     {
         public PizzaMuzzaBuilder()
         {
-            _descripcion = "Pizza de Muzzarela";
+            _descripcion = "Pizza Napolitana";
         }
         public override Agregado BuildAgregado()
         {
